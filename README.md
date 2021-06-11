@@ -22,6 +22,11 @@ https://chris.heald.me/2013/jquery-migrate-xss/
 
 https://gowthams.gitbook.io/bughunter-handbook/list-of-vulnerabilities-bugs/recon-and-osint/untitled
 
+https://github.com/s0md3v/AwesomeXSS
+
+https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting
+
+https://owasp.org/www-community/xss-filter-evasion-cheatsheet
 
 
 ## Extras
